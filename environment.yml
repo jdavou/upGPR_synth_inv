@@ -1,0 +1,12 @@
+name: upGPR_synth_inv
+
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - discretize
+  - jupyter
+  - matplotlib
+  - pip
+  - python=3.11
